@@ -1,4 +1,6 @@
 repo1
 =====
+Merge conflict fixed
+====
 
-My first repo
+Test repository for git class
